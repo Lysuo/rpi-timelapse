@@ -16,4 +16,5 @@ say you want 30s of video with fps = 26, that makes 30*26 = 780 pics in total
 now depending on the time you've got and the phenomenom you're watching you adjust these two arguments to match your criteria. 
 setting $3 to 7s makes you wait 13*780 = 10140s to get all pictures
 
-# Be careful with the quality of the pictures. 100 quality means 2.5Mb pictures, times 780 ... you'd better save some space on your usb stick!
+# Be careful ...
+... with the quality of the pictures. 100 quality means 2.5Mb pictures, times 780 ... you'd better save some space on your usb stick!
